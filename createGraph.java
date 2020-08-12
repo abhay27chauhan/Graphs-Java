@@ -1,6 +1,7 @@
+import java.util.ArrayList;
 class createGraph{
 
-    private class Edge{
+    private static class Edge{
         int src;
         int nbr;
         int wt;
@@ -13,9 +14,9 @@ class createGraph{
     }
 
     public static void main(String[] args){
-        int vces = 7; // 0,1,2,3,4,5,6
-        ArrayList<Edge>[] graph = new ArrayList<Edge>[7];
-        for(int i=0; i<vces; i++){
+        int vtces = 7; // 0,1,2,3,4,5,6
+        ArrayList<Edge>[] graph = new ArrayList[vtces];
+        for(int i=0; i<vtces; i++){
             graph[i] = new ArrayList<>();
         }
 
@@ -29,7 +30,7 @@ class createGraph{
         graph[2].add(new Edge(2, 1, 10));
 
         graph[3].add(new Edge(3, 0, 40));
-        graph[3].add(new Edge(3, 2, 10))
+        graph[3].add(new Edge(3, 2, 10));
         graph[3].add(new Edge(3, 4, 2));
 
         graph[4].add(new Edge(4, 3, 2));
