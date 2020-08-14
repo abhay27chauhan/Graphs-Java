@@ -6,3 +6,5 @@ findPath$Edge.class
 findPath.class
 printAllPath.class
 printAllPath$Edge.class
+getConnectedPaths$Edge.class
+getConnectedPaths.class
