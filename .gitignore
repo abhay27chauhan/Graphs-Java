@@ -10,3 +10,4 @@ getConnectedPaths$Edge.class
 getConnectedPaths.class
 isGraphConnected$Edge.class
 isGraphConnected.class
+countIslands.class
