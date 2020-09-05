@@ -11,3 +11,5 @@ getConnectedPaths.class
 isGraphConnected$Edge.class
 isGraphConnected.class
 countIslands.class
+perfectFriends$Edge.class
+perfectFriends.class
