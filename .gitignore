@@ -8,3 +8,5 @@ printAllPath.class
 printAllPath$Edge.class
 getConnectedPaths$Edge.class
 getConnectedPaths.class
+isGraphConnected$Edge.class
+isGraphConnected.class
