@@ -27,7 +27,6 @@ class findPath{
                 }
             }
         }
-        visited[src] = false;
 
         return false;
 
