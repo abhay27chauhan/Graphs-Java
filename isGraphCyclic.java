@@ -70,7 +70,7 @@ class isGraphCyclic{
         boolean[] visited = new boolean[vtces];
         for(int v=0; v<vtces; v++){
             if(visited[v] == false){
-                boolean isCyclic = isGraphCyclic(graph, src, visited);
+                boolean isCyclic = isGraphCyclic(graph, v, visited);
                 if(isCyclic){
                     System.out.println(true);
                     return;
