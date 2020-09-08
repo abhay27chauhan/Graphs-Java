@@ -23,3 +23,6 @@ isGraphCyclic.class
 isBiparite$Edge.class
 isBiparite.class
 isBiparite$Pair.class
+spreadInfection.class
+spreadInfection$Pair.class
+spreadInfection$Edge.class
