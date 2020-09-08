@@ -13,3 +13,5 @@ isGraphConnected.class
 countIslands.class
 perfectFriends$Edge.class
 perfectFriends.class
+hamiltonianPathsNCycles$Edge.class
+hamiltonianPathsNCycles.class
