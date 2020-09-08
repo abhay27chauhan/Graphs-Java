@@ -18,3 +18,5 @@ hamiltonianPathsNCycles.class
 BreadthFirstTraversal$Edge.class
 BreadthFirstTraversal.class
 BreadthFirstTraversal$Pair.class
+isGraphCyclic$Edge.class
+isGraphCyclic.class
