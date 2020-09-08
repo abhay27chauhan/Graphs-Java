@@ -15,3 +15,6 @@ perfectFriends$Edge.class
 perfectFriends.class
 hamiltonianPathsNCycles$Edge.class
 hamiltonianPathsNCycles.class
+BreadthFirstTraversal$Edge.class
+BreadthFirstTraversal.class
+BreadthFirstTraversal$Pair.class
