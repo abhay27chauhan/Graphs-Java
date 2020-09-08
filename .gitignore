@@ -20,3 +20,6 @@ BreadthFirstTraversal.class
 BreadthFirstTraversal$Pair.class
 isGraphCyclic$Edge.class
 isGraphCyclic.class
+isBiparite$Edge.class
+isBiparite.class
+isBiparite$Pair.class
