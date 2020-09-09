@@ -32,3 +32,5 @@ dijkstraAlgorithm.class
 primsAlgorithm$Edge.class
 primsAlgorithm$Pair.class
 primsAlgorithm.class
+topologicalSort$Edge.class
+topologicalSort.class
