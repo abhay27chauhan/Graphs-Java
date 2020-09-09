@@ -26,3 +26,6 @@ isBiparite$Pair.class
 spreadInfection.class
 spreadInfection$Pair.class
 spreadInfection$Edge.class
+dijkstraAlgorithm$Edge.class
+dijkstraAlgorithm$Pair.class
+dijkstraAlgorithm.class
