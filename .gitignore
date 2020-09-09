@@ -29,3 +29,6 @@ spreadInfection$Edge.class
 dijkstraAlgorithm$Edge.class
 dijkstraAlgorithm$Pair.class
 dijkstraAlgorithm.class
+primsAlgorithm$Edge.class
+primsAlgorithm$Pair.class
+primsAlgorithm.class
