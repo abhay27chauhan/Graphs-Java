@@ -34,3 +34,6 @@ primsAlgorithm$Pair.class
 primsAlgorithm.class
 topologicalSort$Edge.class
 topologicalSort.class
+iterativeDepthFirstSearch$Edge.class
+iterativeDepthFirstSearch$Pair.class
+iterativeDepthFirstSearch.class
