@@ -43,7 +43,7 @@ class isBiparite{
 
             for(Edge e: graph.get(rm.v)){
                 if(visited[e.nbr] == -1){
-                    q.add(new Pair(rm.v, rm.level + 1));
+                    q.add(new Pair(e.nbr, rm.level + 1));
                 }
             }
         }
